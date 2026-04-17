@@ -1,0 +1,60 @@
+
+       <!DOCTYPE html>
+<html>
+<head>
+    <title>My AI Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Nishchitha.G</h1>
+    <p class="tagline">AI-Generated Professional Summary</p>
+
+    <section>
+        <h2>About Me</h2>
+        <p>A motivated degree student with strong communication skills, problem-solving ability, and a creative mindset. Able to think critically and come up with innovative ideas to tackle challenges effectively. Quick to learn and adapt, with a positive attitude toward teamwork and continuous improvement.
+
+Eager to gain practical experience, enhance skills, and contribute meaningfully in a dynamic environment while building a successful professional career.</p>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>
+<b>Project 1: Study on Evolution of Storage Devices</b>
+            </li>
+            <li>
+<b>Project 2:Healthcare Diagnosis System:
+Knowledge Representation and  Reasoning </b></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Resume</h2>
+        <a href="Myresume.pdf" target="_blank" class="btn">Download My Resume</a>
+    </section>
+
+    <section>
+        <h2>How I Used AI</h2>
+        <p>To develop my resume content, I used clear and focused prompts such as requesting an “About Me” section and providing specific details about my skills, including communication, problem-solving, and creative thinking, along with my current status as a degree student. By structuring the prompts with relevant personal information, I enabled the AI to generate content that closely aligns with my profile and career goals.
+
+The AI played a significant role in transforming simple inputs into a professional and impactful resume summary. It enhanced the quality of language, ensured clarity and coherence, and presented my skills in a structured and compelling manner suitable for a formal resume. The AI also demonstrated the ability to adapt tone and style, offering refined versions that improved overall presentation.
+
+Furthermore, AI contributed by saving time, minimizing errors, and providing well-organized content that meets professional standards. It served as an intelligent assistant that not only refined my ideas but also elevated them to a higher level of professionalism.
+
+Overall, the use of AI significantly improved the effectiveness, quality, and presentation of my resume content, making it more suitable for professional opportunities.
+.</p>
+    </section>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: nishchitha235@email.com</p>
+    <p>Mobile: +91 8861366169</p>
+        </section>
+ 
+</div>
+
+</body>
+</html>
